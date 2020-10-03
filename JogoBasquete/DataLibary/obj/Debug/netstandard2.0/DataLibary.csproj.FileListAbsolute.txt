@@ -1,0 +1,6 @@
+C:\Users\Marllan\source\repos\JogoBasquete\DataLibary\bin\Debug\netstandard2.0\DataLibary.deps.json
+C:\Users\Marllan\source\repos\JogoBasquete\DataLibary\bin\Debug\netstandard2.0\DataLibary.dll
+C:\Users\Marllan\source\repos\JogoBasquete\DataLibary\obj\Debug\netstandard2.0\DataLibary.csprojAssemblyReference.cache
+C:\Users\Marllan\source\repos\JogoBasquete\DataLibary\obj\Debug\netstandard2.0\DataLibary.csproj.CoreCompileInputs.cache
+C:\Users\Marllan\source\repos\JogoBasquete\DataLibary\obj\Debug\netstandard2.0\DataLibary.AssemblyInfoInputs.cache
+C:\Users\Marllan\source\repos\JogoBasquete\DataLibary\obj\Debug\netstandard2.0\DataLibary.AssemblyInfo.cs
